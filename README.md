@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roopasree123" alt="roopasree123" /></a> </p>
 
-- 🔭 I’m currently working as an intern of [NHAI (National Highway Authority of India]
+- 🔭 I’m currently working as an intern of **NHAI (National Highway Authority of India)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/roopasree123](https://github.com/roopasree123)
 
