@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roopa Sree</h1>
-<h3 align="center">A passionate front end developer interested software development projects.</h3>
+<h3 align="center">A passionate frontend and backend developer interested in software development projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopasree123&label=Profile%20views&color=0e75b6&style=flat" alt="roopasree123" /> </p>
 
